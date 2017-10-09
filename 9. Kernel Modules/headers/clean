@@ -1,0 +1,1 @@
+rm -rf dat* deb* co* usr/ lib/
